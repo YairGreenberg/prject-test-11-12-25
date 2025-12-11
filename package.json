@@ -1,0 +1,25 @@
+{
+  "name": "test-veek-2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000j\u0000e\u0000c\u0000t\u0000-\u0000t\u0000e\u0000s\u0000t\u0000-\u00001\u00001\u0000-\u00001\u00002\u0000-\u00002\u00005\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YairGreenberg/prject-test-11-12-25.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/YairGreenberg/prject-test-11-12-25/issues"
+  },
+  "homepage": "https://github.com/YairGreenberg/prject-test-11-12-25#readme",
+  "dependencies": {
+    "nanoid": "^5.1.6",
+    "readline-sync": "^1.4.10"
+  }
+}
