@@ -5,8 +5,6 @@ import { changFromPrice, changFromPricedwon } from "../utils/changePrice.js";
 export function OperateOnStock(operation, identifier) {
   try {
     if (operation === "buy") {
-      console.log("yair");
-
       const buyStock = stockMarket.stocks.find(
         (object) => object.id === identifier || object.name === identifier
       );

@@ -48,7 +48,6 @@ export function searchById(stockMarket,idStock)
 }
 
 
-// console.log(searchByName(stockMarket,"BrightFuture Academ"));
 
 
 export function filterStocksByPrice(givenPrice, price)
